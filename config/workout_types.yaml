@@ -1,0 +1,19 @@
+# config/workout_types.yaml
+swim:
+  "USRPT + CSS": usrpt_css
+  "Aerobic + Technique": aerobic_technique
+  "Group Swim": group_swim
+  "Recovery Swim": recovery_swim
+
+bike:
+  "Long Z2 Ride": long_ride
+  "Sweet Spot": sweet_spot
+  "Threshold": threshold
+  "VO2 Max": vo2_max
+  "Recovery Z2": recovery_z2
+
+run:
+  "Long Run": long_run
+  "Quality Run": quality_run
+  "Easy Run": easy_run
+  "Recovery Run": recovery_run
